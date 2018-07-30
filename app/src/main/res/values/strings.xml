@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HomeDepot</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBjzIx-qaBW1jIUECTJeHs7slsQiOnbzYc</string>
+</resources>
